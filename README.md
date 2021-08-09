@@ -1,5 +1,6 @@
-# TLMS
-Terminal Library Management System-Phase I Assessment (VSCode, Databace-MySQL)
+# Terminal Library Management System (TLMS)
+
+Terminal Library Management System-Phase I Assessment (Python, VSCode, Database-MySQL)
 
 Screenshots of running application:
 
